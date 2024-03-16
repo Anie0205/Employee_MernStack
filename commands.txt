@@ -1,0 +1,3 @@
+cd Desktop\Anie\Personal_projects\mern
+frontend = npm run dev
+backend = node --env-file=config.env server
